@@ -10,7 +10,8 @@
         {
             "matches": [
                 "*://*.google.com/search*",
-                "*://*.duckduckgo.com/?q=*"
+                "*://*.duckduckgo.com/?q=*",
+                "*://*.bing.com/search*"
             ],
             "js": [
                 "counter.js"
