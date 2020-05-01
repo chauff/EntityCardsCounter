@@ -10,6 +10,8 @@ Once the temporary add-on is installed, use Google/DuckDuckGo/Bing as usual. Whe
 
 *That doesn't seem very useful?* Right! Put together just to get an idea of how many SERPs contain an entity card during regular search sessions.
 
+Btw, a useful resource to learn about creating extensions for Firefox is its [Extension Workshop page](https://extensionworkshop.com/).
+
 ## Detection of Entity Cards
 
 The detection of entity cards is brittle: it depends on the detection of a particular class name:
