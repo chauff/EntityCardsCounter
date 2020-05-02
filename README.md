@@ -12,6 +12,7 @@ SERP with an entity card from DuckDuckGo as an example:
 
 ![entity card example](card.png)
 
+---
 *That doesn't seem very useful?* Right! Put together just to get an idea of how many SERPs contain an entity card during regular search sessions.
 
 Btw, a useful resource to learn about creating extensions for Firefox is its [Extension Workshop page](https://extensionworkshop.com/).
@@ -28,7 +29,7 @@ The detection of entity cards is brittle: it depends on the detection of a parti
 
 *This might change at any time!*
 
-## Looking at your Counts
+## Looking at Counts
 
 Head over to <kbd>Web Developer</kbd> >> <kbd>Web Console</kdbd> and conduct a search. After the SERP appears, a table that looks something like this will show up on the console:
 
