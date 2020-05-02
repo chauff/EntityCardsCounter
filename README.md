@@ -2,7 +2,7 @@
 
 A Firefox extension to quickly count the number of search engine result pages (SERPs) with/without entity cards. 
 
-Implemented for Google, Bing and DuckDuckGo.
+Implemented for Google, Bing and DuckDuckGo. Counts are maintained separately for each search engine.
 
 Installation instructions for temporary add-ons are simple: clone the repository; open `about:debugging` in Firefox and click <kbd>Load Temporary Add-on</kbd>. Navigate to the `manifest.json` file and you are set.
 
