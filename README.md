@@ -31,7 +31,7 @@ The detection of entity cards is brittle: it depends on the detection of a parti
 
 ## Looking at Counts
 
-Head over to <kbd>Web Developer</kbd> >> <kbd>Web Console</kdbd> and conduct a search. After the SERP appears, a table that looks something like this will show up on the console:
+Head over to <kbd>Web Developer</kbd> >> <kbd>Web Console</kbd> and conduct a search. After the SERP appears, a table that looks something like this will show up on the console:
 
 ![console.table output](table.png)
 
